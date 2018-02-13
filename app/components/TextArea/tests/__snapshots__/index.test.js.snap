@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Textarea /> should render component 1`] = `
+<span
+  className="Wrapper-dyuznp gAhBoi"
+>
+  <label
+    className="Label-ghyrbC KoSFt"
+  />
+  <textarea
+    autoComplete="off"
+    className="StyledTextArea__TextArea-cqmHOB jGwssY"
+    name={undefined}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    rows={undefined}
+    type={undefined}
+    value={undefined}
+  />
+</span>
+`;
+
+exports[`<Textarea /> should render component when focus and blur 1`] = `
+<span
+  className="Wrapper-dyuznp gAhBoi"
+>
+  <label
+    className="Label-ghyrbC jrDnzE"
+  />
+  <textarea
+    autoComplete="off"
+    className="StyledTextArea__TextArea-cqmHOB jGwssY"
+    name={undefined}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    rows={undefined}
+    type={undefined}
+    value={undefined}
+  />
+</span>
+`;
+
+exports[`<Textarea /> should render component when focus and blur 2`] = `
+<span
+  className="Wrapper-dyuznp gAhBoi"
+>
+  <label
+    className="Label-ghyrbC KoSFt"
+  />
+  <textarea
+    autoComplete="off"
+    className="StyledTextArea__TextArea-cqmHOB jGwssY"
+    name={undefined}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    rows={undefined}
+    type={undefined}
+    value={undefined}
+  />
+</span>
+`;
+
+exports[`<Textarea /> should render component with value 1`] = `
+<span
+  className="Wrapper-dyuznp gAhBoi"
+>
+  <label
+    className="Label-ghyrbC jrDnzE"
+  />
+  <textarea
+    autoComplete="off"
+    className="StyledTextArea__TextArea-cqmHOB jGwssY"
+    name={undefined}
+    onBlur={[Function]}
+    onChange={[Function]}
+    onFocus={[Function]}
+    rows={undefined}
+    type={undefined}
+    value="value"
+  />
+</span>
+`;

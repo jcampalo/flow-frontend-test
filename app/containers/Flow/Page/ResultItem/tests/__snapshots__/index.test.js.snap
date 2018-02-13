@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ResultItem /> should render component  1`] = `
+<div
+  className="Wrapper-dyuznp iDoJpU"
+>
+  <label
+    className="Label-ghyrbC gTecle"
+  />
+</div>
+`;
+
+exports[`<ResultItem /> should render component when ends 1`] = `
+<div
+  className="Wrapper-dyuznp iDoJpU"
+>
+  <label
+    className="Label-ghyrbC gTecle"
+  >
+    title
+  </label>
+</div>
+`;
+
+exports[`<ResultItem /> should render component when result fail 1`] = `
+<div
+  className="Wrapper-dyuznp iDoJpU"
+>
+  <label
+    className="Label-ghyrbC dLBDCo"
+  >
+    Rule title fail
+  </label>
+</div>
+`;
+
+exports[`<ResultItem /> should render component when result pass 1`] = `
+<div
+  className="Wrapper-dyuznp iDoJpU"
+>
+  <label
+    className="Label-ghyrbC gTecle"
+  >
+    Rule title pass
+  </label>
+</div>
+`;

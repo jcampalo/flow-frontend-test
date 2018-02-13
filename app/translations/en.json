@@ -1,0 +1,14 @@
+{
+  "TestApp.Containers.Flow.Header": "Page",
+  "TestApp.Containers.Flow.Input.Content": "Content",
+  "TestApp.Containers.Flow.Input.Title": "Title",
+  "TestApp.Containers.Flow.Input.Id": "Id",
+  "TestApp.Containers.Flow.Input.Body": "Body",
+  "TestApp.Containers.Flow.Input.RulePass": "RulePass",
+  "TestApp.Containers.Flow.Input.RuleFail": "RuleFail",
+  "TestApp.Containers.Flow.Results": "Results",
+  "TestApp.Containers.Flow.Add": "Add",
+  "TestApp.Containers.Flow.Run": "Run",
+  "TestApp.Containers.Flow.Pass": "Rule {title} pass",
+  "TestApp.Containers.Flow.Fail": "Rule {title} fail"
+}

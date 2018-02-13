@@ -1,0 +1,148 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RuleItem /> should render component  1`] = `
+<div
+  className="Wrapper-hPVDJR hjkowz"
+>
+  <form
+    className="Form-gTeswK dyrSex"
+  >
+    <div
+      className="InputWrapper-bpDXXy bZGuau"
+    >
+      <label
+        htmlFor="title"
+      >
+        <span
+          className="Wrapper-ddcghJ kYIiWq"
+        >
+          <label
+            className="Label-fIbAhr kVyEfu"
+          >
+            Title
+          </label>
+          <input
+            autoComplete="off"
+            className="StyledInput__Input-eYzgai zNgEU"
+            name="title"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            type="text"
+            value=""
+          />
+        </span>
+      </label>
+    </div>
+    <div
+      className="InputWrapper-bpDXXy bZGuau"
+    >
+      <label
+        htmlFor="id"
+      >
+        <span
+          className="Wrapper-ddcghJ kYIiWq"
+        >
+          <label
+            className="Label-fIbAhr kVyEfu"
+          >
+            Id
+          </label>
+          <input
+            autoComplete="off"
+            className="StyledInput__Input-eYzgai zNgEU"
+            name="id"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            type="number"
+            value=""
+          />
+        </span>
+      </label>
+    </div>
+    <div
+      className="InputWrapper-bpDXXy bZGuau"
+    >
+      <label
+        htmlFor="body"
+      >
+        <span
+          className="Wrapper-dyuznp gAhBoi"
+        >
+          <label
+            className="Label-ghyrbC KoSFt"
+          >
+            Body
+          </label>
+          <textarea
+            autoComplete="off"
+            className="StyledTextArea__TextArea-cqmHOB jGwssY"
+            name="body"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            rows={6}
+            type="text"
+            value=""
+          />
+        </span>
+      </label>
+    </div>
+    <div
+      className="InputWrapper-bpDXXy bZGuau"
+    >
+      <label
+        htmlFor="rulePass"
+      >
+        <span
+          className="Wrapper-ddcghJ kYIiWq"
+        >
+          <label
+            className="Label-fIbAhr kVyEfu"
+          >
+            If rule pased
+          </label>
+          <input
+            autoComplete="off"
+            className="StyledInput__Input-eYzgai zNgEU"
+            name="rulePass"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            type="number"
+            value=""
+          />
+        </span>
+      </label>
+    </div>
+    <div
+      className="InputWrapper-bpDXXy bZGuau"
+    >
+      <label
+        htmlFor="ruleFail"
+      >
+        <span
+          className="Wrapper-ddcghJ kYIiWq"
+        >
+          <label
+            className="Label-fIbAhr kVyEfu"
+          >
+            If rule failed
+          </label>
+          <input
+            autoComplete="off"
+            className="StyledInput__Input-eYzgai zNgEU"
+            name="ruleFail"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            type="number"
+            value=""
+          />
+        </span>
+      </label>
+    </div>
+  </form>
+</div>
+`;

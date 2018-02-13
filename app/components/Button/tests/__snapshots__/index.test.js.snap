@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> should render component 1`] = `
+<div
+  className="Wrapper__Wrapper-cZxMuO eDyakP"
+>
+  <button
+    className="StyledButton__StyledButton-iQSVZX fjLvae"
+    onClick={undefined}
+  >
+    Test
+  </button>
+</div>
+`;
+
+exports[`<Button /> should render component when is loading 1`] = `
+<div
+  className="Wrapper__Wrapper-cZxMuO eDyakP"
+>
+  <button
+    className="StyledButton__StyledButton-iQSVZX fjLvae"
+    onClick={undefined}
+  >
+    Test
+  </button>
+</div>
+`;

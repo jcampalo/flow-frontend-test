@@ -1,0 +1,262 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FlowPage /> should render component with no results and rules 1`] = `
+<div
+  className="Wrapper__WrapperExecute-jRgSbj ktmQR"
+>
+  <div
+    className="WrapperTasks__WrapperTasks-cqWWRV htqoqU"
+  >
+    <div
+      className="Wrapper__Wrapper-cZxMuO eDyakP"
+    >
+      <button
+        className="StyledButton__StyledButton-iQSVZX fjLvae"
+        onClick={undefined}
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+  </div>
+  <div
+    className="WrapperExecute__WrapperExecute-gyaoLD dkjpTk"
+  >
+    <ExecuteForm />
+    <span>
+      Results
+    </span>
+  </div>
+</div>
+`;
+
+exports[`<FlowPage /> should render component with results 1`] = `
+<div
+  className="Wrapper__WrapperExecute-jRgSbj ktmQR"
+>
+  <div
+    className="WrapperTasks__WrapperTasks-cqWWRV htqoqU"
+  >
+    <div
+      className="Wrapper__Wrapper-cZxMuO eDyakP"
+    >
+      <button
+        className="StyledButton__StyledButton-iQSVZX fjLvae"
+        onClick={undefined}
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+  </div>
+  <div
+    className="WrapperExecute__WrapperExecute-gyaoLD dkjpTk"
+  >
+    <ExecuteForm />
+    <span>
+      Results
+    </span>
+    <div
+      className="Wrapper-dyuznp iDoJpU"
+    >
+      <label
+        className="Label-ghyrbC gTecle"
+      >
+        Rule title pass
+      </label>
+    </div>
+    <div
+      className="Wrapper-dyuznp iDoJpU"
+    >
+      <label
+        className="Label-ghyrbC dLBDCo"
+      >
+        Rule title fail
+      </label>
+    </div>
+    <div
+      className="Wrapper-dyuznp iDoJpU"
+    >
+      <label
+        className="Label-ghyrbC gTecle"
+      >
+        title
+      </label>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<FlowPage /> should render component with rules 1`] = `
+<div
+  className="Wrapper__WrapperExecute-jRgSbj ktmQR"
+>
+  <div
+    className="WrapperTasks__WrapperTasks-cqWWRV htqoqU"
+  >
+    <div
+      className="Wrapper-jVvkfh fasrFL"
+    >
+      <form
+        className="Form-gTeswK dyrSex"
+      >
+        <div
+          className="InputWrapper-bpDXXy bZGuau"
+        >
+          <label
+            htmlFor="title"
+          >
+            <span
+              className="Wrapper-hPVDJR hvMvQN"
+            >
+              <label
+                className="Label-jdylQG fQrKdz"
+              >
+                Title
+              </label>
+              <input
+                autoComplete="off"
+                className="StyledInput__Input-eYzgai zNgEU"
+                name="title"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                type="text"
+                value="title"
+              />
+            </span>
+          </label>
+        </div>
+        <div
+          className="InputWrapper-bpDXXy bZGuau"
+        >
+          <label
+            htmlFor="id"
+          >
+            <span
+              className="Wrapper-hPVDJR hvMvQN"
+            >
+              <label
+                className="Label-jdylQG fQrKdz"
+              >
+                Id
+              </label>
+              <input
+                autoComplete="off"
+                className="StyledInput__Input-eYzgai zNgEU"
+                name="id"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                type="number"
+                value="id"
+              />
+            </span>
+          </label>
+        </div>
+        <div
+          className="InputWrapper-bpDXXy bZGuau"
+        >
+          <label
+            htmlFor="body"
+          >
+            <span
+              className="Wrapper-ddcghJ kYIiWq"
+            >
+              <label
+                className="Label-fIbAhr ffJDjh"
+              >
+                Body
+              </label>
+              <textarea
+                autoComplete="off"
+                className="StyledTextArea__TextArea-cqmHOB jGwssY"
+                name="body"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                rows={6}
+                type="text"
+                value="body"
+              />
+            </span>
+          </label>
+        </div>
+        <div
+          className="InputWrapper-bpDXXy bZGuau"
+        >
+          <label
+            htmlFor="rulePass"
+          >
+            <span
+              className="Wrapper-hPVDJR hvMvQN"
+            >
+              <label
+                className="Label-jdylQG fQrKdz"
+              >
+                If rule pased
+              </label>
+              <input
+                autoComplete="off"
+                className="StyledInput__Input-eYzgai zNgEU"
+                name="rulePass"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                type="number"
+                value="rulePass"
+              />
+            </span>
+          </label>
+        </div>
+        <div
+          className="InputWrapper-bpDXXy bZGuau"
+        >
+          <label
+            htmlFor="ruleFail"
+          >
+            <span
+              className="Wrapper-hPVDJR hvMvQN"
+            >
+              <label
+                className="Label-jdylQG fQrKdz"
+              >
+                If rule failed
+              </label>
+              <input
+                autoComplete="off"
+                className="StyledInput__Input-eYzgai zNgEU"
+                name="ruleFail"
+                onBlur={[Function]}
+                onChange={[Function]}
+                onFocus={[Function]}
+                type="number"
+                value="ruleFail"
+              />
+            </span>
+          </label>
+        </div>
+      </form>
+    </div>
+    <div
+      className="Wrapper__Wrapper-cZxMuO eDyakP"
+    >
+      <button
+        className="StyledButton__StyledButton-iQSVZX fjLvae"
+        onClick={undefined}
+        type="button"
+      >
+        Add
+      </button>
+    </div>
+  </div>
+  <div
+    className="WrapperExecute__WrapperExecute-gyaoLD dkjpTk"
+  >
+    <ExecuteForm />
+    <span>
+      Results
+    </span>
+  </div>
+</div>
+`;
